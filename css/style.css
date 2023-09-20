@@ -1,0 +1,10 @@
+
+.inline{
+  max-width:5rem;
+}
+
+.path{
+  max-width: 5rem; /*broken*/
+  stroke:brown;
+  fill:brown;
+}
